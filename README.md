@@ -25,6 +25,7 @@ Arch is our way to push you out of your comfort zone. Expect a lot of command li
   - Gimp
   - Krita
   - Kdenlive
+  - Handbrake
 - 3D
   - FreeCAD
   - OpenSCAD
@@ -46,5 +47,7 @@ Arch is our way to push you out of your comfort zone. Expect a lot of command li
   - Firefox
   - Chromium
   - Thunderbird
--Machine operation
+- Machine operation
   - Mods
+  - Cura
+  - Repetier-Host / Pronterface
