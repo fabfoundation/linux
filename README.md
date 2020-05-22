@@ -2,13 +2,13 @@
 
 > This is WIP
 
-Linux for Fab are a couple of Linux distributions preloaded with software and settings for Fab Labs, Makerspaces and the like. It has been created to make it easier for you to adopt Linux. The original idea came from our beloved [Nadya Peek](http://infosyncratic.nl/) who created this awesome [post-install script](https://gist.github.com/pral2a/7804545fc55b14ad0bef) for Ubuntu.
+Linux for Fab are a couple of Linux distributions preloaded with software and settings for Fab Labs, Makerspaces and the like. It has been created to make it easier for you to adopt Linux. The original idea came from our beloved [Nadya Peek](http://infosyncratic.nl/) who created this awesome [post-install script](https://gist.github.com/pral2a/7804545fc55b14ad0bef) for Ubuntu. Another version for [Ubuntu 18.04 LTS](http://academy.cba.mit.edu/classes/project_management/script_18.04_Xfce) from Neil Gershenfeld can be found here 
 
 Like in all things in life there are two options.
 
 ## For beginners: Ubuntu
 
-This distribution is maintaned by [Sibu Saman](https://github.com/sibusaman)
+This distribution is maintaned by [Sibu Saman](https://github.com/sibusaman) and [Nicolas](https://github.com/VigonOracle)
 
 Ubuntu is the recommended option if you have never used Linux before or if you don't really want to mess with the internals of Linux. Just plug-n-play and get things done.
 
